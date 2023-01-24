@@ -1,0 +1,5 @@
+tasks:
+  - init: git remote set-url origin git@github.com:sasikumarevature/sasikumarevature-BooleanOperators.git && sed "s/\r$//" commit-command.sh | bash
+vscode:
+ extensions:
+   - kyntrack.gitpod-plugin
